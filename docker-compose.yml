@@ -3,9 +3,10 @@ version: '3.1'
 services:
   reconwithme-docs:
     build:
-      context: .
-      dockerfile: Dockerfile
+    image: retypeapp/retype
     restart: always
-    user: root:root
+    volumes:
+      - .:/app
     ports:
-      - "5000:5000"
+      - 5000:5000
+    command: watch
