@@ -1,4 +1,4 @@
-FROM retypeapp/retype:latest-debian
+FROM retypeapp/retype:latest-ubuntu
 
 WORKDIR /
 
