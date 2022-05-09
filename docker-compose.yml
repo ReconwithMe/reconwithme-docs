@@ -2,7 +2,6 @@ version: '3.1'
 
 services:
   reconwithme-docs:
-    image: retypeapp/retype:latest-debian
     build:
       context: .
       dockerfile: Dockerfile

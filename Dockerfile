@@ -1,10 +1,10 @@
-FROM retypeapp/retype:latest-ubuntu
+FROM retypeapp/retype:2
 
 WORKDIR /
 
-RUN rm /bin/sh && ln -s /bin/bash /bin/sh
+# RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
-RUN apt-get update
+# RUN apt-get update
 
 # #install nvm
 # RUN mkdir -p /usr/local/nvm
