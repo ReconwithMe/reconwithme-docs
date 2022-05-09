@@ -1,13 +1,13 @@
 # Build
-$ docker build -t retypeapp/retype .
+docker build -t retypeapp/retype .
 # or
-$ docker-compose build
+docker-compose build
 
 # Create an easy to use alias
-$ alias retype='docker run --rm -it -v "$PWD:/app" retypeapp/retype'
+alias retype='docker run --rm -it -v "$PWD:/app" retypeapp/retype'
 
 # Or run manually
-$ docker run --rm -it -v "$PWD:/app" retypeapp/retype
+docker run --rm -it -v "$PWD:/app" retypeapp/retype
 
 # Or with compose
-$ docker-compose up retype
+docker-compose up retype
