@@ -1,2 +1,2 @@
 git pull
-pm2 restart doc
+pm2 restart dev
