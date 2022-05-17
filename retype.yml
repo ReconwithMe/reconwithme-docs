@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: docs.reconwithme.com
+url: https://docs.reconwithme.com/
 branding:
   title: ReconwithMe
   label: Docs
@@ -19,4 +19,7 @@ footer:
 cname: docs.reconwithme.com
 editor:
   enabled: false
+watch:
+  port: "5000"
+  hostname: "0.0.0.0"
 
