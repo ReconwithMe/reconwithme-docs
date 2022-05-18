@@ -24,6 +24,9 @@ links:
 - text: Twitter
   link: https://twitter.com/reconwithme
   icon: ./static/twitter.png
+- text: Contact
+  link: mailto:support@reconwithme.com
+  icon: mail
 
 
 footer:
