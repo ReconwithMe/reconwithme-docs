@@ -12,13 +12,27 @@ branding:
       text: #ffffff
       background: #ff0000
 links:
-- text: Getting Started
-  link: https://docs.reconwithme.com/
+- text: Home
+  link: https://reconwithme.com/
+  icon: home
+- text: GitHub
+  link: https://github.com/ReconwithMe/reconwithme-docs
+  icon: mark-github
+- text: Issues
+  link: https://github.com/ReconwithMe/reconwithme-docs/issues
+  icon: issue-opened
+- text: Twitter
+  link: https://twitter.com/reconwithme
+  icon: ./static/twitter.png
+
+
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 cname: docs.reconwithme.com
 editor:
-  enabled: false
+  enabled: true
+edit:
+  repo: https://github.com/ReconwithMe/reconwithme-docs
 watch:
   port: "5000"
   hostname: "0.0.0.0"
