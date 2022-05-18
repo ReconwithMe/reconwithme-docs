@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "retype watch"
+    "start": "retype watch",
+    "deploy": "retype build && aws s3 sync ./.retype/ s3://docs.reconwithme.com"
   },
   "keywords": [],
   "author": "",
