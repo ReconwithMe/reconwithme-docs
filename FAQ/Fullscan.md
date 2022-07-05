@@ -1,7 +1,10 @@
 # Full Scan
 
 > #### How can I start a scan?
-> Select a target and click the scan button on the top-right side of the dashboard.
+> ```mermaid
+> graph LR
+>     A[SELECT A TARGET] -->|CLICK ON| B(SCAN BUTTON)
+> ```
 
 > #### How do I know that a scan has been completed?
 > You’ll get an email notifying you that the scan has been completed.

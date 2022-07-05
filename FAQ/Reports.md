@@ -18,9 +18,13 @@
 
 > #### How do you classify severity?
 > We classify severity on the following basis.
-> - High Severity - Vulnerability that possesses high risks such as sensitive data exposure.
-> - Medium Severity - Vulnerability that possesses medium risks such as missing headers.
-> - Low Severity - Vulnerability that possesses low risks such as clickjacking.
+||| **High Severity**
+Vulnerability that possesses high risks such as sensitive data exposure.
+||| **Medium Severity**
+Vulnerability that possesses medium risks such as missing headers.
+||| **Low Severity**
+Vulnerability that possesses low risks such as clickjacking.
+|||
 
 > #### How can I change the status of the vulnerability?
 > You can change the status of a vulnerability by clicking on the drop down button on the right hand side of vulnerabilities page.
