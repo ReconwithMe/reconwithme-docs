@@ -2,7 +2,7 @@
 
 Scan page displays all the scan history. You can search for the target and view all the scan history and all the vulnerabilities that was discovered on each scan. 
 
-![Scan page](../static/Scans/scanpage.png)
+![Scan page](../static/Scans/scanpage.jpg)
 
 All the scanned targets, with their last scanned date and the number of vulnerabilities discovered are displayed on first page.
 
