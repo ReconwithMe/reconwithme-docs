@@ -14,7 +14,7 @@ It is developed by security researchers who have been recognized by organization
 
 
 ## Types of scan 
-ReconwithMe is an automated tool that focuses on safeguarding your web applications. The tool generates two reports, one for normal users and other for security experts. ReconwithMe uses two methods to scan, Normal scan and Deep scan
+ReconwithMe is an automated tool that focuses on safeguarding your web applications. The tool generates two reports, one for normal users and other for security experts. ReconwithMe uses two methods to scan: Normal scan and Deep scan
 
 > Normal Scan:
 Normal Scan detects upto 20,000+ Common Vulnerabilities and Exposures and security headers in less than five minutes. Normal scan detects vulnerabilities such as

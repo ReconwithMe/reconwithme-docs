@@ -1,13 +1,12 @@
 <!-- @format -->
 
-## How to use
 
 #### Step 1: Setting Up
 
 - Download the extension from chrome web store.
 - Enable the extension.
 
-#### Step 2: Authencating
+#### Step 2: Authenticating
 
 - Make sure you are logged in to your reconwithme account.
 - Click on the extension icon in the top left corner of the screen.
@@ -17,7 +16,7 @@
 - Extension's dashboard shows a option to select target.
 - Pick a target from the list on which you want to enable authencated scanning.
 
-#### Step 4: Setting up auth
+#### Step 4: Setting up authentication
 
 - After selecting a target, a new tab opens with the target website.
 - Press Record on extension after the website loads.
@@ -25,7 +24,7 @@
 - After finishing the login, stop the recording and click on "Save Record" button, to save the authencation process.
 - Next time you scan a target, this method is used to authencate and mentions session throughout the session and scan deeper.
 
-### important notes
+### Important notes
 
 - Use the extension on a freshly Installed browser or on a browser that has been used before.
 - Don't use saved password, or copy paste your credencial. You will have to type your credencial to let the extension records it.

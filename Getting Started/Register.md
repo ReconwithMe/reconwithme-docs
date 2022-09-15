@@ -3,7 +3,7 @@
 
 We have some option to get you started with ReconwithMe
 
-Firstly, we will headup to [Product Pricing Page](https://reconwithme.com/#pricing) of reconwithme, and choose the plan that best fits your needs. As soon as we click on the plan, you will be redirected to the payment page.
+To begin, we will navigate to the reconwithme [Product Pricing Page](https://reconwithme.com/#pricing) and select the package that best meets your requirements. You will be redirected to the payment page as soon as we click on the plan.
 
 
 ### Payment Options
@@ -13,7 +13,7 @@ Firstly, we will headup to [Product Pricing Page](https://reconwithme.com/#prici
   - [AppSumo](https://appsumo.com/products/reconwithme-deal/)
   - ConnectIPS
 
-After you have chosen the payment method, you will be redirected to the respective payment page and strategically placed to pay. Once you have successfully paid, you will be asked to enter your account details.
+After selecting a payment option, you will be directed to the appropriate payment page and strategically placed to pay. After you have successfully paid, you will be prompted to input your account information.
 
 ### Type of Deals
 
