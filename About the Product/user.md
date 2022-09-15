@@ -1,13 +1,13 @@
 # User Manual 
 
 ## Adding The Target
-> STEP 1
+> STEP 1: 
 > The first step is to add the target and once you have added the target you will be directed towards the advanced option.
 
-> STEP 2
+> STEP 2: 
 > After you have entered all of the necessary information in the advanced option, you will then need to verify your target. 
 
-> STEP 3
+> STEP 3: 
 > You can verify your target by adding a txt record on your DNS Server. This funtionality can be disabled for large targets on request.
 
 
